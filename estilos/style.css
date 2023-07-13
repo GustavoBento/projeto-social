@@ -7,8 +7,8 @@
 }
 
 html, body {
-    height: 100vh;
-    width: 100vw;
+    height: 99vh;
+    width: 99.5vw;
 }
 
 body {
@@ -46,7 +46,7 @@ section#redes-sociais {
 
 section#redes-sociais img {
     width: 40px;
-    margin: 10px 5px;
+    margin: 10px 3px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.400);
     box-sizing: border-box;
